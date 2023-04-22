@@ -3,3 +3,5 @@
 Goals:
 Create a rolling average system. The system should take in a number between 1-10, then calculate the average
 Get a map of all the counties. Each county should have a color associated with it, which is found by the rolling average associated with it
+County class has a color and a number associated with it, and the number changes based on the the rolling average
+Should be able to mouse over a county OR search a county 
